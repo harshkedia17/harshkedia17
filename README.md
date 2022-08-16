@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshkedia717@gmail.com**
 
-- 📄 Here's my Resume [https://drive.google.com/file/d/11q3AQ95dJ3lO7yRpxQOsf8XbSNEtInyI/view?usp=sharing](dfjf)
+- 📄 Here's my [Resume](https://drive.google.com/file/d/11q3AQ95dJ3lO7yRpxQOsf8XbSNEtInyI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
