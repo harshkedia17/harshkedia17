@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshkedia717" target="blank"><img src="https://img.shields.io/twitter/follow/harshkedia717?logo=twitter&style=for-the-badge" alt="harshkedia717" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps & Cloud**
+- 🌱 I’m currently learning **DevOps & Cloud** and working as **SDE Intern** at **MiWealth InfoTech**. 
 
 - 👨‍💻 All of my projects are available at [my Github Profile itself.](my Github Profile itself.)
 
